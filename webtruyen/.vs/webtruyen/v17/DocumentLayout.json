@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder (2)\\WebTruyen\\webtruyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\model\\webtruyencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:model\\webtruyencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|e:\\new folder (2)\\webtruyen\\webtruyen\\dto\\storyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08CCA73-7339-4B7B-8E9B-0FCD238EBEF9}|webtruyen.csproj|solutionrelative:dto\\storyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:32:17.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:06:52.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebtruyenContext.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\WebtruyenContext.cs",
+              "RelativeDocumentMoniker": "Model\\WebtruyenContext.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\WebtruyenContext.cs",
+              "RelativeToolTip": "Model\\WebtruyenContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:08:06.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VNPayController.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\VNPayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VNPayController.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\VNPayController.cs",
+              "RelativeToolTip": "Controllers\\VNPayController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:33:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Account.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\Account.cs",
+              "RelativeToolTip": "Model\\Account.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA6wCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:48:09.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcBAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:57:17.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-10T02:44:56.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Story.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\Story.cs",
+              "RelativeDocumentMoniker": "Model\\Story.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Model\\Story.cs",
+              "RelativeToolTip": "Model\\Story.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:19:04.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:22:19.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T01:56:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoryRequest.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\WebTruyen\\webtruyen\\DTO\\StoryRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\StoryRequest.cs",
+              "ToolTip": "E:\\New folder (2)\\WebTruyen\\webtruyen\\DTO\\StoryRequest.cs",
+              "RelativeToolTip": "DTO\\StoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:04:34.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
